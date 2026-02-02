@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Test Automation Report</documentTitle>
+        <reportName>Cucumber BDD Test Report</reportName>
+    </configuration>
+</extentreports>
